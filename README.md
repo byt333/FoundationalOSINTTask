@@ -35,3 +35,11 @@ Here we have a picture of the current situation in Gaza:
 This picture shows a streetview in Berlin, Germany:
 
 ![image](https://github.com/byt333/FoundationalOSINTTask/assets/151645798/36408cf0-43d5-4493-b279-ff779c635846)
+
+
+
+# Tadk E: 
+
+This is the profile description of Twitter/X user dude_lynn: 
+
+![image](https://github.com/byt333/FoundationalOSINTTask/assets/151645798/2c53c23d-18c9-4805-9e50-244b151bb8a4)
