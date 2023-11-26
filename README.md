@@ -38,8 +38,16 @@ This picture shows a streetview in Berlin, Germany:
 
 
 
-# Tadk E: 
+# Task E: 
 
 This is the profile description of Twitter/X user dude_lynn: 
 
 ![image](https://github.com/byt333/FoundationalOSINTTask/assets/151645798/2c53c23d-18c9-4805-9e50-244b151bb8a4)
+
+
+# Task F: 
+
+Here we have a photo taken in Gaza on the 9th of October, 2023: 
+
+![image](https://github.com/byt333/FoundationalOSINTTask/assets/151645798/dd188e35-377f-4875-84ad-6f820010d372)
+
