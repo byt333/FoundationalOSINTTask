@@ -16,7 +16,8 @@ This picture shows Luise Amtsberg, a German politician.
 
 This picture shows the St Mary's Cathedral in London:
 
-![image](https://github.com/byt333/FoundationalOSINTTask/assets/151645798/6dd2b639-108f-4ce9-b1c5-f44e155d6a73)
+![image](https://github.com/byt333/FoundationalOSINTTask/assets/151645798/d5f4fd2c-a5f1-40aa-85f9-3deaba7c03f8)
+
 
 
 
