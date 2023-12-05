@@ -41,9 +41,10 @@ This picture shows a streetview in Berlin, Germany:
 
 # Task E: 
 
-This is the profile description of Twitter/X user dude_lynn: 
+This article was published by euronews on the 23/03/2023:
 
-![image](https://github.com/byt333/FoundationalOSINTTask/assets/151645798/2c53c23d-18c9-4805-9e50-244b151bb8a4)
+![image](https://github.com/byt333/FoundationalOSINTTask/assets/151645798/61c3fc3b-f17f-47e6-b40e-4e418805bf76)
+
 
 
 
